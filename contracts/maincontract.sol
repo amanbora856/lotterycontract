@@ -13,7 +13,7 @@ contract Lottery{
     }
 
     receive () payable external{
-        require(msg.value == 0.1 ether,"amount should be 0.1 ether only");
+        require(msg.value == 0.1 ether,"amount  should be 0.1 ether only");
         players.push(payable(msg.sender));
     }
 
