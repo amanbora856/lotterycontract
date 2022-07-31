@@ -46,7 +46,7 @@ You should have already installed the following things beforehand:
   "description": "Add your project description here",
    "repository": {
     "type": "git",
-    "url": "https://github.com/akshay-na/solidity-project-template.git"
+    "url": "https://github.com/amanbora856/lotterycontract.git"
   },
   }
   ```
